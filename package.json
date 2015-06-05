@@ -1,0 +1,17 @@
+{
+  "name": "makepy",
+  "version": "1.0.0",
+  "description": "The output of the first letter of Chinese characters,获取汉字首字母",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "keywords": [
+    "first letter",
+    "Chinese",
+    "characters",
+    "汉字首字母"
+  ],
+  "author": "tiangestar",
+  "license": "ISC"
+}
