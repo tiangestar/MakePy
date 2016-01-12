@@ -1,6 +1,6 @@
 {
   "name": "makepy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The output of the first letter of Chinese characters,获取汉字首字母",
   "main": "./bin/index.js",
   "scripts": {
