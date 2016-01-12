@@ -2,9 +2,9 @@
   "name": "makepy",
   "version": "1.0.0",
   "description": "The output of the first letter of Chinese characters,获取汉字首字母",
-  "main": "index.js",
+  "main": "./bin/index.js",
   "scripts": {
-    "test": "node ./test/test.js"
+    "test": "node ./test/pingying.js"
   },
   "keywords": [
     "first letter",
